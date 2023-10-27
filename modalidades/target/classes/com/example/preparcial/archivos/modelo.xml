@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="20.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="com.example.preparcial.model.Progama">
+    <void property="codigo">
+     <string>111</string>
+    </void>
+    <void property="modalidad">
+     <string>nocturno</string>
+    </void>
+    <void property="nombre">
+     <string>juan</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.example.preparcial.model.Progama">
+    <void property="codigo">
+     <string>6778</string>
+    </void>
+    <void property="modalidad">
+     <string>kjbhjk</string>
+    </void>
+    <void property="nombre">
+     <string>hijl</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.example.preparcial.model.Progama">
+    <void property="codigo">
+     <string> jk</string>
+    </void>
+    <void property="modalidad">
+     <string>bjnk</string>
+    </void>
+    <void property="nombre">
+     <string>jbnk</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.example.preparcial.model.Progama">
+    <void property="codigo">
+     <string>ukjh</string>
+    </void>
+    <void property="modalidad">
+     <string>distancia</string>
+    </void>
+    <void property="nombre">
+     <string>jmyu</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.example.preparcial.model.Progama">
+    <void property="codigo">
+     <string>dfgh</string>
+    </void>
+    <void property="modalidad">
+     <string>presencial</string>
+    </void>
+    <void property="nombre">
+     <string>asdf</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.example.preparcial.model.Progama">
+    <void property="codigo">
+     <string>123</string>
+    </void>
+    <void property="modalidad">
+     <string>distancia</string>
+    </void>
+    <void property="nombre">
+     <string>matematicas</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
